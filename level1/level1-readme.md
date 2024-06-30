@@ -4,7 +4,7 @@ Please follow the instructions below to complete the coding test using ReactJS w
 
 1. Create a new React project using Create React App with TypeScript:
 
-2. Use EmployeeList.png as a guide to create a view that displays a list of employees.
+2. Use EmployeeList.png as a guide to create a view that displays a list of employees. The end result should be exactly as the image.
 
 3. Use `data.ts` file located in the project directory. This file contains the data that you will need to build the view.
 
